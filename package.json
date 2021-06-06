@@ -1,0 +1,9 @@
+{
+  "name": "message_generator",
+  "version": "1.0.0",
+  "description": "task for codecademy.",
+  "main": "script.js",
+  "repository": "https://github.com/AlencarJailson/message_generator.git",
+  "author": "Jailson Alencar",
+  "license": "MIT"
+}
